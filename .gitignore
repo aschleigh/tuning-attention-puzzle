@@ -36,3 +36,7 @@ patches/max/*.aiff
 *.mov
 flowedit_out/
 samples/
+
+# generated audio and personal recordings
+sounds/
+inputs/
